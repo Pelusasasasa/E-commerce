@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100"
+   height="100"
+   data-name="Layer 1"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="local.svg">
+  <metadata
+     id="metadata31">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="841"
+     inkscape:window-height="480"
+     id="namedview29"
+     showgrid="false"
+     inkscape:zoom="2.36"
+     inkscape:cx="50"
+     inkscape:cy="50"
+     inkscape:window-x="0"
+     inkscape:window-y="14"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <style
+       id="style6">.cls-1{fill:none;stroke:#E98C23;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.65px;}</style>
+  </defs>
+  <title
+     id="title8">Artboard 1 copy 2</title>
+  <g
+     class="layer"
+     id="g10"
+     transform="matrix(1.7179703,0,0,1.566185,-28.010222,-30.94212)">
+    <title
+       id="title12">Layer 1</title>
+    <g
+       data-name="7"
+       id="_7">
+      <line
+         class="cls-1"
+         id="svg_1"
+         x1="29.389999"
+         x2="29.360001"
+         y1="42.139999"
+         y2="42.139999"
+         style="fill:none;stroke:#E98C23;stroke-width:1.64999998px;stroke-linecap:round;stroke-linejoin:round" />
+      <polyline
+         class="cls-1"
+         id="svg_2"
+         points="22.59 48.38 22.59 72.6 68.61 72.6 68.61 48.38"
+         style="fill:none;stroke:#E98C23;stroke-width:1.64999998px;stroke-linecap:round;stroke-linejoin:round" />
+      <line
+         class="cls-1"
+         id="svg_3"
+         x1="61.810001"
+         x2="61.799999"
+         y1="42.139999"
+         y2="42.139999"
+         style="fill:none;stroke:#E98C23;stroke-width:1.64999998px;stroke-linecap:round;stroke-linejoin:round" />
+      <rect
+         class="cls-1"
+         height="5.0300002"
+         id="svg_4"
+         width="50.52"
+         x="20.34"
+         y="72.599998"
+         style="fill:none;stroke:#E98C23;stroke-width:1.64999998px;stroke-linecap:round;stroke-linejoin:round" />
+      <rect
+         class="cls-1"
+         height="17.959999"
+         id="svg_5"
+         width="22.860001"
+         x="39.919998"
+         y="54.549999"
+         style="fill:none;stroke:#E98C23;stroke-width:1.64999998px;stroke-linecap:round;stroke-linejoin:round" />
+      <rect
+         class="cls-1"
+         height="17.959999"
+         id="svg_6"
+         width="11.5"
+         x="28.42"
+         y="54.549999"
+         style="fill:none;stroke:#E98C23;stroke-width:1.64999998px;stroke-linecap:round;stroke-linejoin:round" />
+      <path
+         class="cls-1"
+         d="m 67.41,48.53 0,0 A 5.64,5.64 0 0 1 62,42.71 l -4,-14.82 5.84,0 a 3.53,3.53 0 0 1 3.29,2.45 L 72.28,41 c 1.21,3.55 -1.15,7.4 -4.68,7.53 l -0.19,0 z"
+         id="svg_7"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#E98C23;stroke-width:1.64999998px;stroke-linecap:round;stroke-linejoin:round" />
+      <path
+         class="cls-1"
+         d="m 56.5,48.53 0,0 a 5.64,5.64 0 0 1 -5.45,-5.82 l -1.31,-14.82 8.26,0 3.68,13.65 A 5.79,5.79 0 0 1 58,48.3 5.08,5.08 0 0 1 56.5,48.53 Z"
+         id="svg_8"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#E98C23;stroke-width:1.64999998px;stroke-linecap:round;stroke-linejoin:round" />
+      <path
+         class="cls-1"
+         d="m 45.6,48.53 0,0 a 5.64,5.64 0 0 1 -5.45,-5.82 l 1.3,-14.82 8.29,0 1.31,14.82 a 5.64,5.64 0 0 1 -5.45,5.82 z"
+         id="svg_9"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#E98C23;stroke-width:1.64999998px;stroke-linecap:round;stroke-linejoin:round" />
+      <path
+         class="cls-1"
+         d="m 34.69,48.53 0,0 a 5.64,5.64 0 0 1 -5.45,-5.82 l 3.93,-14.82 8.28,0 -1.3,14.82 a 5.65,5.65 0 0 1 -5.46,5.82 z"
+         id="svg_10"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#E98C23;stroke-width:1.64999998px;stroke-linecap:round;stroke-linejoin:round" />
+      <path
+         class="cls-1"
+         d="m 23.79,48.53 -0.19,0 C 20.06,48.4 17.71,44.53 18.92,41 L 24,30.34 a 3.52,3.52 0 0 1 3.29,-2.45 l 5.84,0 -3.79,14.35 a 6.47,6.47 0 0 0 -0.11,0.87 5.62,5.62 0 0 1 -5.44,5.42 z"
+         id="svg_11"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#E98C23;stroke-width:1.64999998px;stroke-linecap:round;stroke-linejoin:round" />
+      <line
+         class="cls-1"
+         id="svg_12"
+         x1="46.189999"
+         x2="44.25"
+         y1="58.900002"
+         y2="60.84"
+         style="fill:none;stroke:#E98C23;stroke-width:1.64999998px;stroke-linecap:round;stroke-linejoin:round" />
+      <line
+         class="cls-1"
+         id="svg_13"
+         x1="49.68"
+         x2="45.279999"
+         y1="59.810001"
+         y2="64.209999"
+         style="fill:none;stroke:#E98C23;stroke-width:1.64999998px;stroke-linecap:round;stroke-linejoin:round" />
+      <line
+         class="cls-1"
+         id="svg_14"
+         x1="32.220001"
+         x2="32.220001"
+         y1="64.580002"
+         y2="66.209999"
+         style="fill:none;stroke:#E98C23;stroke-width:1.64999998px;stroke-linecap:round;stroke-linejoin:round" />
+    </g>
+  </g>
+</svg>
