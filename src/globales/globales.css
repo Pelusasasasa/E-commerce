@@ -33,11 +33,15 @@ li a{
 }
 
 .tarjeta{
-    
     display: flex;
     flex-direction: column;
     align-items: center;
     border: .1rem solid black;
+}
+
+.tarjeta .informacion{
+    background-color: #666;
+    padding: 2rem;
 }
 
 .tarjeta:hover{
@@ -46,6 +50,7 @@ li a{
 
 .acciones{
     display: flex;
+    justify-content: center;
 }
 .tarjeta .precio{
     font-weight: bold;
