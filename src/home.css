@@ -40,11 +40,11 @@ li:hover a{
     height: auto;
     margin: 50px auto 0;
 
-    animation: slide 16s infinite alternate ease-in-out;
+    /* animation: slide 16s infinite alternate ease-in-out; */
 }
 
 .carrucel ul{
-    width: 400%;
+    /* width: 400%; */
     display: flex;
     padding: 0;
 }
