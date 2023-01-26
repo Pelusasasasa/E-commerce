@@ -4,15 +4,19 @@
 }
 
 nav{
+    border-radius: 50px;
+    background-color: rgb(240, 225, 15);
     display: grid;
     grid-template-columns: 1fr 2fr;
 }
 
 #logo{
+    padding: 1rem;
     width: 20rem;
 }
 
 #logo img{
+    border-radius: 50px;
     width: 100%;
 }
 
@@ -26,12 +30,12 @@ nav li{
     padding: 2rem;
 }
 
-nav li:hover{
-    background-color: orange;
+nav li a{
+    font-size: 2rem;
 }
 
 li:hover a{
-    color: white;
+    color: rgb(156, 146, 1);
 }
 
 .carrucel{
