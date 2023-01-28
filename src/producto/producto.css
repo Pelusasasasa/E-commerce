@@ -1,0 +1,54 @@
+
+
+.informacion{
+    display: flex;
+    justify-content: center;
+}
+
+.informacion .imagen{
+    width: 30%;
+}
+
+.informacion img{
+    width: 70%;
+}
+
+.informacion .informacionProducto input{
+    padding: 1rem;
+    width: 10rem;
+    font-size: 2rem;
+    margin-right: 2rem;
+}
+
+.informacion .informacionProducto{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.valorar ul{
+    display: flex;
+    border-bottom: .1rem solid #eae9eb;
+}
+
+.valorar ul li{
+    font-size: 2rem;
+    font-weight: bold;
+    padding: 1.5rem;
+    border: .1rem solid rgba(66, 66, 66,0.1);
+    cursor: pointer;
+    color:  #666;
+}
+
+.valorar ul li.seleccionado{
+    color: black;
+}
+
+.valorar{
+    margin-left: 2rem;
+}
+
+.valoracion form div{
+    display: flex;
+    gap: 2rem;
+}
